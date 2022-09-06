@@ -9,5 +9,4 @@ panic = "abort"
 [profile.release]
 panic = "abort"
 
-
 [dependencies]
