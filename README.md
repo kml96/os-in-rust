@@ -1,6 +1,6 @@
 # Minimal Operating System in Rust
 
-Learning to write minimal OS from scratch in Rust lang. 
+Learning to write minimal OS from scratch in Rust programming language.
 
 ## Resources used
  - [Writing OS in rust by Philipp Oppermann](https://os.phil-opp.com)
@@ -13,5 +13,5 @@ Learning to write minimal OS from scratch in Rust lang.
 
 ## Future goals after this project
 
-- Contribution to Redox os project
+- Contribution to [Redox Operating System](https://www.redox-os.org) project
 - Furthur develop this project into usable and practical OS
