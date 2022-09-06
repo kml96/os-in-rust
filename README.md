@@ -1,4 +1,4 @@
-# Minimal Operating System(OS) in Rust
+# Minimal Operating System in Rust
 
 Learning to write minimal OS from scratch in Rust lang. 
 
@@ -14,4 +14,4 @@ Learning to write minimal OS from scratch in Rust lang.
 ## Future goals after this project
 
 - Contribution to Redox os project
-- Furthur develop this project into usable practical OS
+- Furthur develop this project into usable and practical OS
