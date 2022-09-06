@@ -1,7 +1,5 @@
-//disable std library
-#![no_std]
-// don't use main() function as entry point
-#![no_main]
+#![no_std] //disable std library
+#![no_main] // don't use main() function as entry point
 
 // import necessary items
 use core::panic::PanicInfo;
@@ -11,9 +9,8 @@ use core::panic::PanicInfo;
 fn panic(_info: &PanicInfo) -> ! {
     loop {}
 }
-// entry point for our program
-// disable function name mangling               
-#[no_mangle]
+// this function is entry point
+#[no_mangle] // disable function name mangling
 pub extern "C" fn _start() -> ! {
     loop {}
 }
