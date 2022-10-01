@@ -15,3 +15,7 @@ Learning to write minimal OS from scratch in Rust programming language.
 
 - Contribution to [Redox Operating System](https://www.redox-os.org) project
 - Furthur develop this project into usable and practical OS
+
+## Progress Tracking
+ [x] Free standing Binary (i.e without standard library)
+ [ ] Minimal Kernel ( that prints hello world )
